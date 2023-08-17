@@ -1,0 +1,5 @@
+sai="Boots"
+anand=13
+sai=str(input())
+anand=int(input())
+print(f"User wears {sai} - size is {anand}")
