@@ -1,0 +1,8 @@
+num_list=[]
+
+count=(int(input("enter the total count of elements :")))
+
+for i in range(0,count):
+    num_list.append(int(input()))
+
+    print(num_list)
