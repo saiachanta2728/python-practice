@@ -1,0 +1,7 @@
+import math
+a= int(input("enter first number"))
+b= int(input("enter second number"))
+
+result= math.pow(a,b)
+
+print("power is:",result)
