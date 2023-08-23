@@ -1,0 +1,30 @@
+1)I had got to know about the vs code and i had compile some program using vs code.[complted]
+
+
+
+2) I want to know how to changw path in my laptop?[incompleted}
+
+
+3) U  told to upload my programs in python practise i had completed that task,i run the programs in vs code.[completed]
+
+
+4) i had uploded my notes in github( sai notes) i had mention with this name i had mention in this .[completed]
+
+
+5) i had change the branch name in github in the folder python practise i have given a name (sai practise)[completed]
+
+
+6) i shoukd give a repositri for edyst .[incompleted[
+
+
+7) i am not getting to remove my saiboot repositri.[ imcompletd]
+
+
+i am not getting to know to execute progra using command prompt or miniconda prompt.
+
+
+
+
+
+
+
