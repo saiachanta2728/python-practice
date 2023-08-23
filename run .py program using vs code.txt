@@ -1,0 +1,22 @@
+how to compile python program in  vs code
+      
+
+
+
+
+
+Step 1 : see the python version is there are not.
+
+Step 2 : open visual studio code in ur laptop.
+
+step 3 : create a new folder [python.py].
+
+step 4 : open that folder in vs code.
+
+step 5 : in that folder create file [print hello world] make ur progam name.
+ 
+step 6 : write the program in the vs code .
+
+step 7 : press shift+ enter and do the terminal.
+
+step 8: run the program in the vs code and the save the file in the program
