@@ -1,0 +1,11 @@
+Step 1: conda create -n mydataenv
+Step 2: activate mydataenv
+Step 4: activate base 
+Step 5: python - verson 
+Step 6: activate base
+
+
+
+
+
+  this process helps to create envinornment 
